@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: #3a3d47;
+}
+
+.contenedor{
+    position: relative;
+    background: #5bc0de;
+    width: 50%;
+    height: 600px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.imagen{
+    margin-left: 30%;
+    margin-top: 30px;
+    padding-bottom: 20px;
+    padding-top: 50px;
+}
+
+label{
+    margin-left: 30%;
+    padding: 3px;
+}
+
+input{
+    margin-left: 5%;
+    margin-bottom: 5px;
+    padding-right: 30px;
+}
+
+.boton{
+    background: rgb(21,158,39);
+    background: linear-gradient(0deg, rgba(21,158,39,0.3841911764705882) 50%, rgba(0,142,255,1) 100%, rgba(50,191,33,0.3169642857142857) 100%);
+    padding: 20px;
+    color: white;
+    margin-left: 40%;
+}
